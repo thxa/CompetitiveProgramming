@@ -5,6 +5,12 @@ main()
 {
   ios_base::sync_with_stdio(false);
   cin.tie(0);
-  map<string, int> mp;
-  cout << mp["name"];
+  int t, n;
+  cin >> t;
+  while(t--) {
+    cin >> n;
+    while(n--) {
+      
+    }
+  }
 }
